@@ -36,3 +36,10 @@ figcaption {
     color: rgb(255, 255, 255);
     text-align: center;
     }
+td{
+    font-family: Luckiest Guy;
+    font-size: 30px;
+    color: white;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
