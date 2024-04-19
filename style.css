@@ -99,3 +99,14 @@ table {
     margin-right: auto;
     width: 80%;
 }
+ul {
+    color: #ffffff;
+    list-style-type: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    padding: 5px;
+    overflow: hidden;
+    background-color: hsla(150, 76%, 15%, 0.766);
+    border-radius: 10px;
+}
