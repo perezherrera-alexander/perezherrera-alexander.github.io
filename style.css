@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'Luckiest Guy';
+    src: url('LuckiestGuy-Regular.woff2') format('woff2'),
+        url('LuckiestGuy-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
 body {
     background-color: #14884E;
     font-family: Arial, sans-serif;
