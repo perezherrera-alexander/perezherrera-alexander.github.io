@@ -79,3 +79,16 @@ td{
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: black;
 }
+/*Change color of scroll bar and scroll back ground to different shades of green*/
+::-webkit-scrollbar {
+    width: 12px;
+}
+::-webkit-scrollbar-track {
+    background: #1e1e1e;
+}
+::-webkit-scrollbar-thumb {
+    background: #828d87;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #828d87;
+}
