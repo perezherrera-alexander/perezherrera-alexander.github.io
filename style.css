@@ -26,7 +26,8 @@ h2 {
     }
 h3 {
     color: rgb(255, 255, 255);
-    text-align: center;
+    text-align: left;
+    margin-left: 80px;
     }
 p {
     color: rgb(255, 255, 255);
@@ -44,6 +45,33 @@ figcaption {
     color: rgb(255, 255, 255);
     text-align: center;
     }
+a {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: large;
+}
+a:link {
+    color: greergb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+    }
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+} 
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
 td{
     font-family: Luckiest Guy;
     font-size: 30px;
