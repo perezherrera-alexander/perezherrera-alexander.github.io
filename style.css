@@ -110,3 +110,7 @@ ul {
     background-color: hsla(150, 76%, 15%, 0.766);
     border-radius: 10px;
 }
+/*Round the corners of the images*/
+img {
+    border-radius: 10px;
+}
