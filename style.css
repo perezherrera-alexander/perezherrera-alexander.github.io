@@ -84,3 +84,9 @@ td{
     scrollbar-color: #4CAF50 #2E7D32;
     scrollbar-width: thin;
 }
+/*Center the table*/
+table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
