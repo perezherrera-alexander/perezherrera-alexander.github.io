@@ -7,9 +7,11 @@
     font-display: swap;
 }
 body {
-    background-color: #14884E;
-    font-family: Arial, sans-serif;
-    }
+    background-image: url('images/background.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
 h1 {
     color: rgb(255, 255, 255);
     text-align: center;
