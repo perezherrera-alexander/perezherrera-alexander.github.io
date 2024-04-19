@@ -8,7 +8,16 @@
 }
 body {
     background-image: url('images/Background.png');
+    background-size: 500px;
+    background-repeat: repeat;
+    background-attachment: fixed;
     font-family: Arial, sans-serif;
+}
+div {
+    background-color: hsla(150, 74%, 31%, 0.40);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 50px;
 }
 h1 {
     color: rgb(255, 255, 255);
