@@ -55,22 +55,22 @@ a {
     font-size: large;
 }
 a:link {
-    color: greergb(255, 255, 255);
+    color: #ffffff;
     background-color: transparent;
     text-decoration: none;
     }
 a:visited {
-    color: pink;
+    color: #ffffff;
     background-color: transparent;
     text-decoration: none;
 }
 a:hover {
-    color: red;
+    color: #828d87;
     background-color: transparent;
     text-decoration: underline;
 } 
 a:active {
-    color: yellow;
+    color: #828d87;
     background-color: transparent;
     text-decoration: underline;
 }
