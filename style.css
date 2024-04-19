@@ -64,3 +64,10 @@ a:active {
     background-color: transparent;
     text-decoration: underline;
 }
+td{
+    font-family: Luckiest Guy;
+    font-size: 30px;
+    color: white;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
