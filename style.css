@@ -125,3 +125,11 @@ img {
     max-height: 100%;
     display: block;
 }
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 500px;
+    border-radius: 10px;
+}
